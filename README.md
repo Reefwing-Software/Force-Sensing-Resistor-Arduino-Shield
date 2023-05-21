@@ -2,7 +2,7 @@
 
 # Force Sensing Resistor (FSR) Arduino Shield
 
-An Arduino Shield to measure a FSR using either a buffered voltage divider or current to voltage op-amp solution.
+An Arduino Shield to measure an FSR using either a buffered voltage divider or current to voltage op-amp solution.
 
 We needed is an instrument that can plot the voltage/thrust curve for any motor and propeller combination. We use Pulse Width Modulation (PWM) to control the Electronic Speed Controller (ESC) which drives the motor, and it would be nice to be able to relate this PWM percentage to thrust.
 
