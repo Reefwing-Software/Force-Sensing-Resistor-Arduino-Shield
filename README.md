@@ -1,3 +1,5 @@
+![version](https://img.shields.io/github/v/tag/Reefwing-Software/Force-Sensing-Resistor-Arduino-Shield) ![license](https://img.shields.io/badge/license-MIT-green) ![release](https://img.shields.io/github/release-date/Reefwing-Software/Force-Sensing-Resistor-Arduino-Shield?color="red") ![open source](https://badgen.net/badge/open/source/blue?icon=github)
+
 # Force Sensing Resistor (FSR) Arduino Shield
 
 An Arduino Shield to measure an FSR using a voltage divider or op-amp solution.
