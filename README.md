@@ -6,6 +6,8 @@ We needed is an instrument that can plot the voltage/thrust curve for any motor 
 
 A detailed explanation of this shield design with diagrams, may be found on the [Reefwing Medium](https://medium.com/@reefwing) page.
 
+Schematics and PCB layout files may be found in the [Reefwing Software GitHub Repository](https://github.com/Reefwing-Software/Force-Sensing-Resistor-Arduino-Shield).
+
 ## Force Sensing Resistors
 
 An FSR will not be as accurate as a a strain gauge, load cell, or pressure transducer, but it is a lot cheaper. It can be used for measurement after calibration but it is more traditionally used for detecting relative values. We used two Interlink 400 Series FSRs in our testing, the 0.25" and the 0.5". 
