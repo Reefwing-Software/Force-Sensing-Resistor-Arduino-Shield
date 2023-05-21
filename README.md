@@ -2,13 +2,13 @@
 
 # Force Sensing Resistor (FSR) Arduino Shield
 
-An Arduino Shield to measure an FSR using a voltage divider or op-amp solution.
+An Arduino Shield to measure a FSR using either a buffered voltage divider or current to voltage op-amp solution.
 
 We needed is an instrument that can plot the voltage/thrust curve for any motor and propeller combination. We use Pulse Width Modulation (PWM) to control the Electronic Speed Controller (ESC) which drives the motor, and it would be nice to be able to relate this PWM percentage to thrust.
 
 A detailed explanation of this shield design with diagrams, may be found on the [Reefwing Medium](https://medium.com/@reefwing) page.
 
-Schematics and PCB layout files may be found in the [Reefwing Software GitHub Repository](https://github.com/Reefwing-Software/Force-Sensing-Resistor-Arduino-Shield).
+Schematics and PCB layout files may be found in this [Reefwing Software GitHub Repository](https://github.com/Reefwing-Software/Force-Sensing-Resistor-Arduino-Shield).
 
 ## Force Sensing Resistors
 
