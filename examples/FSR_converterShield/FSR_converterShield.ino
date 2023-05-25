@@ -1,8 +1,8 @@
 /******************************************************************
-  @file       FSR_voltageDividerShield.ino
-  @brief      Measure voltage on pin A0 and convert to resistance.
+  @file       FSR_converterShield.ino
+  @brief      Measure voltage on pin A1 and convert to resistance.
               For use with the Reefwing FSR Amplifier Shield.
-              This sketch is for the buffered voltage divider
+              This sketch is for the current to voltage converter
               circuit on the shield.
   @author     David Such
   
